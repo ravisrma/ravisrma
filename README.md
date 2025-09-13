@@ -3,11 +3,6 @@
   <img src="https://github.com/ravisrma/ravisrma/blob/main/Ravi%20banner.png" alt="logo" width="100%" />
 </p>
 
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ravisrma.ravisrma" />
-</p>
-
 <!-- Animated Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ravi+Sharma!;" alt="Typing SVG" />
@@ -19,7 +14,11 @@
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" /> </p>
+<!-- Visitor Badge & Profile Views -->
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ravisrma.ravisrma" />
+  <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" />
+</p>
 
 - 🔭 I’m currently working on **Corporate DevOps Tools**
 

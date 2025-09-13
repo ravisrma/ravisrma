@@ -91,17 +91,7 @@
 <!--</div> </p>-->
 <br/>
 <hr/>
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/in.svg" width="32" style="vertical-align:middle;" />
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/svg/1f525.svg" width="32" style="vertical-align:middle;" />
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40" style="vertical-align:middle;" />
-    My Contributions
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="40" style="vertical-align:middle;" />
-    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/svg/1f525.svg" width="32" style="vertical-align:middle;" />
-    <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/in.svg" width="32" style="vertical-align:middle;" />
-  </h2>
-</div>
+<h2> 🏆✨🚀 My Contributions 🚀✨🏆 </h2>
   <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/night.svg" />

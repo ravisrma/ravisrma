@@ -91,9 +91,8 @@
 <!--</div> </p>-->
 <br/>
 <hr/>
-<
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <p align="center" >
 	<picture>

@@ -91,13 +91,19 @@
 <!--</div> </p>-->
 <br/>
 <hr/>
-<!--<
+<
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/day.svg" />
+	</picture>
+</p>
   
-  <br/><br/><br/>-->
+  <br/><br/><br/>
 </div>
 
 <hr/>
@@ -115,13 +121,7 @@
 <hr/>
 
 <br/>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>

@@ -17,32 +17,35 @@
 <h3 align="center">Feel free to reach out for any Freelance Project.</h3>
 
 <!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="350" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" /> </p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" />
+</p>
 
-- 🔭 I’m currently working on **Corporate DevOps Tools**
-
-- 🌱 I’m currently learning **Cloud DevOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ravisrma](https://github.com/ravisrma)
-
-- 💬 Ask me about **DevOps & Cloud DevOps**
-
-- 📫 How to reach me **ravisharma0527@gmail.com**
-
-- ⚡ Fun fact **I am funny😅**
+<!-- About Me -->
+<p align="center">
+  <strong>🔭</strong> I’m currently working on <b>Corporate DevOps Tools</b> <br>
+  <strong>🌱</strong> I’m currently learning <b>Cloud DevOps</b> <br>
+  <strong>👨‍💻</strong> All of my projects are available at <a href="https://github.com/ravisrma">github.com/ravisrma</a> <br>
+  <strong>💬</strong> Ask me about <b>DevOps & Cloud DevOps</b> <br>
+  <strong>📫</strong> How to reach me <b>ravisharma0527@gmail.com</b> <br>
+  <strong>⚡</strong> Fun fact <b>I am funny😅</b>
+</p>
 
 <!-- Social Links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ravi-0527" target="blank">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ravi-0527" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/itsravisrma" target="blank">
+  <a href="https://instagram.com/itsravisrma" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@ravisharma0527" target="blank">
+  <a href="https://medium.com/@ravisharma0527" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
@@ -81,6 +84,32 @@
 
 <hr/>
 
+<!-- Badges Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-DevOps%20Engineer-orange?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-Expert-623CE4?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Guru-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Pro-2088FF?logo=githubactions&logoColor=white" />
+</p>
+
+<!-- Featured Projects -->
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/ravisrma/video_streaming">
+    <img src="https://img.shields.io/badge/Video%20Streaming%20App-Cloud%20Native-blue?logo=amazonaws" />
+  </a>
+  <a href="https://github.com/ravisrma/devops-toolkit">
+    <img src="https://img.shields.io/badge/DevOps%20Toolkit-Automation-green?logo=github" />
+  </a>
+</p>
+
+<!-- GitHub Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravisrma&theme=onedark&row=1&column=7" alt="GitHub Trophy" />
+</p>
+
+<hr/>
+
 <!-- Contributions Section with Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/1kJ1YkQ3dR6kA/giphy.gif" width="40" style="vertical-align:middle;" />
@@ -94,6 +123,9 @@
     <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/ravisrma/ravisrma/output-3d-contrib/day.svg" />
   </picture>
 </p>
+<p align="center">
+  <img src="https://github.com/ravisrma/ravisrma/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+</p>
 
 <hr/>
 
@@ -106,10 +138,32 @@
   <br/>
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ravisrma&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 <hr/>
+
+<!-- Fun Facts Section -->
+<h3 align="center">🎉 Fun Facts</h3>
+<ul align="center">
+  <li>I automate everything—even my coffee machine ☕️🤖</li>
+  <li>My favorite CI/CD tool is GitHub Actions!</li>
+  <li>I love open source and mentoring new DevOps engineers.</li>
+</ul>
+
+<!-- Did You Know Section -->
+<h3 align="center">🤔 Did You Know?</h3>
+<p align="center">
+  I contributed to open source projects used by thousands of developers worldwide!
+</p>
+
+<!-- Contact Me Button -->
+<p align="center">
+  <a href="mailto:ravisharma0527@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-red?logo=gmail" />
+  </a>
+</p>
 
 <!-- Buy Me a Coffee -->
 <div align="center">

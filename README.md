@@ -3,10 +3,9 @@
   <img src="https://github.com/ravisrma/ravisrma/blob/main/Ravi%20banner.png" alt="logo" width="100%" />
 </p>
 
-<!-- Visitor Badge & Profile Views -->
-<p align="center">
+<!-- Visitor Badge -->
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ravisrma.ravisrma" />
-  <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" />
 </p>
 
 <!-- Animated Intro -->
@@ -18,19 +17,21 @@
 <h3 align="center">Feel free to reach out for any Freelance Project.</h3>
 
 <!-- Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" width="350" />
-</p>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<!-- About Me -->
-<p align="center">
-  <strong>🔭</strong> I’m currently working on <b>Corporate DevOps Tools</b> <br>
-  <strong>🌱</strong> I’m currently learning <b>Cloud DevOps</b> <br>
-  <strong>👨‍💻</strong> All of my projects are available at <a href="https://github.com/ravisrma">github.com/ravisrma</a> <br>
-  <strong>💬</strong> Ask me about <b>DevOps & Cloud DevOps</b> <br>
-  <strong>📫</strong> How to reach me <b>ravisharma0527@gmail.com</b> <br>
-  <strong>⚡</strong> Fun fact <b>I am funny😅</b>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravisrma&label=Profile%20views&color=0e75b6&style=flat" alt="ravisrma" /> </p>
+
+- 🔭 I’m currently working on **Corporate DevOps Tools**
+
+- 🌱 I’m currently learning **Cloud DevOps**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ravisrma](https://github.com/ravisrma)
+
+- 💬 Ask me about **DevOps & Cloud DevOps**
+
+- 📫 How to reach me **ravisharma0527@gmail.com**
+
+- ⚡ Fun fact **I am funny😅**
 
 <!-- Social Links -->
 <h3 align="center">Connect with me:</h3>

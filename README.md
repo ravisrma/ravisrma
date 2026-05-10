@@ -40,10 +40,10 @@
 <h2 align="center">⚒️ <span style="color:#ff9800;">Languages-Frameworks-Tools</span> ⚒️</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,python,ansible,bash,kubernetes,github,jenkins,githubactions,linux,mysql,powershell,prometheus,grafana,maven,elasticsearch&perline=18" alt="Skills" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" style="vertical-align:middle;margin-left:8px;" />
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK (Elasticsearch)" width="42" height="42" style="vertical-align:middle;margin-left:6px;" />
-  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="ELK (Logstash)" width="42" height="42" style="vertical-align:middle;margin-left:6px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="ELK (Kibana)" width="42" height="42" style="vertical-align:middle;margin-left:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" width="48" height="48" style="display:inline-block;vertical-align:middle;margin-left:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ELK (Elasticsearch)" width="42" height="42" style="display:inline-block;vertical-align:middle;margin-left:6px;" />
+  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="ELK (Logstash)" width="42" height="42" style="display:inline-block;vertical-align:middle;margin-left:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" alt="ELK (Kibana)" width="42" height="42" style="display:inline-block;vertical-align:middle;margin-left:6px;" />
 </p>
 
 <hr/>
